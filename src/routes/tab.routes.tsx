@@ -1,6 +1,6 @@
 import {createBottomTabNavigator} from '@react-navigation/bottom-tabs'
-import Feed from '../Feed'
-import New from '../New'
+import Feed from '../screens/Feed'
+import New from '../screens/New'
 
 import {Feather} from '@expo/vector-icons'
 

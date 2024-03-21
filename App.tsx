@@ -1,4 +1,4 @@
-import Routes from './src/screens/routes';
+import Routes from './src/routes';
 import 'react-native-gesture-handler';
 
 export default function App() {
